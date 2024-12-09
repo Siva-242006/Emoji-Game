@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Emoji-Game/static/css/main.04b6b146.chunk.css",
+    "main.js": "/Emoji-Game/static/js/main.c0b9d2c9.chunk.js",
+    "main.js.map": "/Emoji-Game/static/js/main.c0b9d2c9.chunk.js.map",
+    "runtime-main.js": "/Emoji-Game/static/js/runtime-main.ea60d651.js",
+    "runtime-main.js.map": "/Emoji-Game/static/js/runtime-main.ea60d651.js.map",
+    "static/js/2.f28e1f00.chunk.js": "/Emoji-Game/static/js/2.f28e1f00.chunk.js",
+    "static/js/2.f28e1f00.chunk.js.map": "/Emoji-Game/static/js/2.f28e1f00.chunk.js.map",
+    "index.html": "/Emoji-Game/index.html",
+    "static/css/main.04b6b146.chunk.css.map": "/Emoji-Game/static/css/main.04b6b146.chunk.css.map",
+    "static/js/2.f28e1f00.chunk.js.LICENSE.txt": "/Emoji-Game/static/js/2.f28e1f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea60d651.js",
+    "static/js/2.f28e1f00.chunk.js",
+    "static/css/main.04b6b146.chunk.css",
+    "static/js/main.c0b9d2c9.chunk.js"
+  ]
+}
