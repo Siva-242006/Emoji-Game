@@ -1,0 +1,74 @@
+/* Write your code here. */
+
+.game-container {
+  background: linear-gradient(to bottom, #6a59ff, #9796f0, #fbc7d4);
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.game-container-for-result {
+  background: linear-gradient(to bottom, #6a59ff, #9796f0, #fbc7d4);
+  margin-top: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 575px) {
+  .game-container {
+    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .game-container-for-result {
+    padding: 15px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  .game-container {
+    padding: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+
+  .game-container-for-result {
+    padding: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .game-container {
+    padding: 20px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+  }
+
+  .game-container-for-result {
+    padding: 20px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .game-container {
+    padding: 25px;
+    padding-top: 15%;
+    padding-bottom: 15%;
+  }
+  .game-container-for-result {
+    padding: 20px;
+    padding-top: 8%;
+    padding-bottom: 8%;
+  }
+}
