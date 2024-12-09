@@ -1,3 +1,5 @@
+Check Out this game using url "https://siva-242006.github.io/Emoji-Game/"
+
 In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
