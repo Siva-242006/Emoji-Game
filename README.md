@@ -133,20 +133,6 @@ Use these files to complete the implementation:
   ```
 
 </details>
-
-### Important Note
-
-<details>
-<summary>Click to view</summary>
-
-<br/>
-
-**The following instructions are required for the tests to pass**
-
-- The emojis should have the alt as the value of the key `emojiName` from each emoji object
-
-</details>
-
 ### Resources
 
 <details>
@@ -177,12 +163,5 @@ Use these files to complete the implementation:
 #### Border Colors
 
 <div style="background-color: #ffffff30 ; width: 150px; padding: 10px; color: black">Hex: #ffffff30</div>
-
-</details>
-
-<details>
-<summary>Font-families</summary>
-
-- Roboto
 
 </details>
