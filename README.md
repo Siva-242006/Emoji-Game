@@ -133,7 +133,8 @@ Use these files to complete the implementation:
   ```
 
 </details>
-### Resources
+
+Resources
 
 <details>
 <summary>Image URLs</summary>
