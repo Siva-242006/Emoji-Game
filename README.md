@@ -1,6 +1,22 @@
+# Emoji Game 🎮
+
+A fun and interactive game where players match emojis to test their memory and speed. Built with React.js, this project showcases dynamic rendering and state management.
+
+## Features
+
+- Interactive emoji matching gameplay
+- Responsive design for various screen sizes
+- Real-time score updates
+- Timer to challenge players
+
 Check Out this game using url "https://siva-242006.github.io/Emoji-Game/"
 
-In this project, let's build an **Emoji Game** by applying the concepts we have learned till now.
+## Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- npm
 
 ### Refer to the image below:
 
